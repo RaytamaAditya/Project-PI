@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="health">#F3CA52</color>
+    <color name="green">#D8EFD3</color>
+    <color name="hijau">#043303</color>
+    <color name="guren">#55AD9B</color>
+    <color name="yellow">#0A2647</color>
+    <color name="bule">#164918</color>
+    <color name="warna">#FF8F00</color>
+    <color name="warnaGundar">#800080</color>
+    <color name="transparent">#00000000</color>
+    <color name="my_dark_primary">#D1C4E9</color>
+</resources>

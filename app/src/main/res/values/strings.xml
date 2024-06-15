@@ -1,0 +1,269 @@
+<resources>
+    <string name="app_name">PlantScan</string>
+    <string name="failed">Failed</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Pilih Gambar dari Gallery</string>
+    <string name="analyze">Analisis!</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="classifier_failed">Detail Hasil Analisis</string>
+    <string name="insert_image">Silahkan Masukkan Gambar</string>
+    <string name="ucrop_null">UCrop result URI is null</string>
+    <string name="error_msg">Error</string>
+    <string name="error_crop">Gagal Crop Gambar</string>
+    <string name="email">raytamaaditya@gmail.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_information">Information</string>
+    <string name="title_home">Home</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- TODO: String List -->
+    <string name="buah_name">Nama Buah</string>
+    <string name="description">Deskripsi</string>
+    <string name="title_tips">Deskripsi</string>
+    <string name="title_tip_detail">Deskripsi</string>
+    <string name="default_title">Judul Default</string>
+    <string name="default_description">Deskripsi Default</string>
+    <string name="image_description">Deskripsi Gambar</string>
+    <string name="tip_image">Image</string>
+
+    <string name="title_history">History</string>
+
+
+    <string name="delete_button">Delete</string>
+
+    <string name="TextPi">Halo semuaaaaaaaa,Aplikasi ini adalah  proyek akhir Penelitian Ilmiah ,aplikasi ini dapat digunakan untuk klasifikasi penyakit dari Tumbuhan seperti (Tomat,Jagung,Kedelai dan Kubis) </string>
+
+
+    <string-array name="Name">
+        <item>Tomato Healthy</item>
+        <item>Tomato Septoria Leaf Spot</item>
+        <item>Tomato Bacterial Spot</item>
+        <item>Tomato Blight</item>
+        <item>Tomato Spider Mite</item>
+        <item>Tomato Leaf Mold</item>
+        <item>Tomato Yellow Leaf Curl Virus</item>
+        <item>Cabbage Healthy</item>
+        <item>Cabbage Black Rot</item>
+        <item>Soy Frogeye Leaf Spot</item>
+        <item>Soy Downy Mildew</item>
+        <item>Soy Healthy</item>
+        <item>Maize Ravi Corn Rust</item>
+        <item>Maize Healthy</item>
+        <item>Maize Grey Leaf Spot</item>
+        <item>Maize Lethal Necrosis</item>
+    </string-array>
+
+
+    <string-array name="description">
+        <item>tahukah kamu?</item>
+        <item>tahukah kamu?</item>
+        <item>tahukah kamu?</item>
+        <item>tahukah kamu?</item>
+        <item>tahukah kamu?</item>
+        <item>tahukah kamu?</item>
+        <item>tahukah kamu?</item>
+        <item>tahukah kamu?</item>
+        <item>tahukah kamu?</item>
+        <item>tahukah kamu?</item>
+        <item>tahukah kamu?</item>
+        <item>tahukah kamu?</item>
+        <item>tahukah kamu?</item>
+        <item>tahukah kamu?</item>
+        <item>tahukah kamu?</item>
+        <item>tahukah kamu?</item>
+    </string-array>
+
+
+    <string name="tomato_healthy_description">
+        Tomato Healthy atau bisa kita sebut juga dengan Tomat sehat merupakan salah satu tanaman yang memiliki segudang manfaat untuk tubuh selain mengurangi risiko terkena penyakit kangker,Tomat juga bermanfaat untuk Kesehatan jantung ,menurunkan tekanan darah dan Mencegah penuaan dini pada kulit,Oleh karena itu ,banyak orang yang ingin membudidayakanya di rumah dengan mengetahui cara merawat tanaman Tomat agar sehat Untuk merawat tanaman tomat, penting untuk memperhatikan beberapa hal:\n
+        1. Suhu optimal untuk tomat adalah 22ºC hingga 29°C.\n
+        2. Tanaman tomat membutuhkan cahaya matahari tinggi selama 10-12 jam sehari.\n
+        3. Hindari genangan air yang berlebihan.\n
+        4. Penyiangan tanaman tomat perlu dilakukan secara rutin, dua hingga tiga minggu sekali, atau ketika tanaman berusia 15-30 hari.\n
+        5. Pemupukan dilakukan dengan pupuk NPK Daun atau kompos setiap 30 hari sekali.\n
+        6. Kontrol hama dan penyakit dengan insektisida agar tanaman tetap sehat.\n
+        Sumber : katadata.co.id
+    </string>
+
+    <string name="tomato_septoria_leaf_spot_description">
+        Tomato Septoria Leaf Spot, atau Tomat Bercak Daun Septoria, adalah penyakit jamur yang menyebabkan bercak hitam atau coklat pada daun tua bagian bawah tanaman, tetapi tidak pada buah. Penyakit ini dapat menyebar cepat, mempengaruhi pertumbuhan baru, dan membuat tanaman rentan terhadap sengatan matahari. Penyakit ini umum terjadi di kondisi taman yang hangat dan lembab. Untuk mencegah dan mengobati penyakit ini, lakukan hal berikut:\n
+        • Hapus daun yang terinfeksi dan pastikan mencuci tangan serta alat pemotong sebelum memangkas tanaman yang sehat.\n
+        • Pertimbangkan penggunaan fungisida organik seperti tembaga atau kalium bikarbonat untuk mencegah penyebaran.\n
+        • Pertimbangkan juga fungisida kimia.\n
+        • Gunakan benih bebas penyakit.\n
+        • Mulailah dengan taman yang bersih.\n
+        • Sediakan ruang untuk sirkulasi udara yang baik.\n
+        • Gunakan baking soda dan minyak nabati.\n
+        Sumber : www-thespruce-com
+    </string>
+
+    <string name="tomato_bacterial_spot_description">
+        Tomato Bacterial Spot, atau Tomat Bercak Bakteri, adalah penyakit umum yang menyerang tomat di seluruh dunia. Penyakit ini dapat mengurangi hasil panen dan mempengaruhi kualitas buah. Gejalanya termasuk bintik hitam kecil pada daun dan buah. Bintik pada daun bisa dikelilingi lingkaran kuning, sementara bintik pada buah bisa berwarna coklat hingga hitam dengan lingkaran cahaya hijau atau kuning.\n
+        Untuk mencegah penyakit ini:\n
+        • Gunakan benih berkualitas tinggi dan bebas patogen.\n
+        • Jika benih terkontaminasi, rendam dalam air panas (122°F selama 25 menit).\n
+        • Hindari penyiraman dari atas, gunakan air hujan atau selang tetes.\n
+        • Tangani tanaman hanya saat kering dan disinfeksi peralatan berkebun secara rutin dengan pemutih 10% atau alkohol 70%.\n
+        • Buang sisa-sisa tanaman yang terkontaminasi di akhir musim tanam.\n
+        • Gunakan rotasi tanaman non inang untuk musim tanam berikutnya.\n
+        sumber : hort-extension-wisc-edu.
+    </string>
+
+    <string name="tomato_blight_description">
+        Tomato Blight, atau Tomat Busuk, dapat disebabkan oleh serangga dan cendawan. Serangga seperti lalat buah dan ulat memakan kulit dan daging buah, sementara cendawan seperti Colletotrichum coccodes dan Thanatephorus cucumeris menyebabkan busuk buah antraknosa dan rhizoctonia.\n
+        Gejala busuk buah meliputi bercak kecil berair yang membesar dan menjadi coklat hitam, serta bercak ungu di dekat tangkai buah.\n
+        Cara mengendalikan busuk buah pada tomat:\n
+        • Pilih benih yang tahan penyakit.\n
+        • Lakukan rotasi tanaman atau sistem tanam tumpangsari.\n
+        • Bersihkan gulma dan tanaman yang sakit dengan mencabut dan membakarnya.\n
+        • Berikan tiang lanjaran agar tanaman tidak menyentuh tanah.\n
+        • Gunakan air bersih untuk penyiraman.\n
+        • Jangan memendam tanaman yang sakit di area penanaman tomat.\n
+        • Semprotkan fungisida setiap minggu.\n
+        Sumber: www.infarm.co.id
+    </string>
+
+
+    <string name="tomato_spider_mite_description">
+        Tomato Spider Mite atau Tungau Laba-laba Daun Tomat (Tetranychus urticae) adalah hama umum yang sulit dikenali karena ukurannya kecil. Mereka termasuk arakhnida, bukan serangga, dan dapat menghasilkan jaring sutra halus. Warnanya bervariasi dari merah, hijau, kuning, oranye, hingga coklat.\n
+        Langkah-langkah untuk merawat tanaman tomat yang terserang tungau laba-laba:\n
+        1. Pemeriksaan rutin: Periksa tanaman secara rutin untuk deteksi dini.\n
+        2. Kebersihan tanaman: Jaga kebersihan dan buang daun yang terinfeksi.\n
+        3. Meningkatkan kelembaban: Siram tanaman dengan air untuk mengurangi populasi tungau.\n
+        4. Penggunaan sabun insektisida: Semprot tanaman dengan larutan sabun insektisida.\n
+        5. Minyak neem: Gunakan minyak neem yang dicampur dengan air dan semprotkan.\n
+        6. Predator alami: Introduksi predator alami seperti ladybugs atau lacewings.\n
+        7. Rotasi tanaman: Hindari menanam tomat di tempat yang sama setiap tahun.\n
+        8. Insektisida kimia: Gunakan insektisida kimia jika infestasi parah.\n
+        Dengan langkah-langkah ini, Anda dapat mengurangi dan mengendalikan serangan tungau laba-laba pada tanaman tomat Anda.\n
+        Sumber :www-planetnatural-com
+    </string>
+
+
+    <string name="tomato_leaf_mold_description">
+        Tomato Leaf Mold atau Jamur Daun pada Tomat adalah penyakit yang menyerang daun, batang, akar, dan buah, membuat tanaman lemah dan mati. Jamur menyebar melalui spora yang terbawa angin dan berkembang biak dalam cuaca lembab. Beberapa jenis jamur yang sering menyerang tomat adalah:\n
+        1. **Busuk Daun**: Disebabkan oleh jamur Phytophthora infestans, menyerang di kelembaban tinggi dan suhu dingin. Gejala: bintik-bintik basah yang menyebar menjadi bercak hitam keunguan. Pengendalian: pembersihan, membuang tanaman terinfeksi, dan fungisida.\n
+        2. **Bercak Kering Alternaria**: Disebabkan oleh jamur Alternaria solani, ditandai dengan bercak cokelat dan hitam pada daun bagian bawah. Penyebaran: cuaca hangat dan basah. Pengendalian: fungisida.\n
+        3. **Antraknosa**: Disebabkan oleh jamur Colletotrichum coccodes, menyerang tomat yang masak. Gejala: bintik-bintik cekung melingkar dengan pinggiran hitam. Pengendalian: fungisida.\n
+        4. **Layu Fusarium**: Disebabkan oleh jamur Fusarium oxysporum, menginfeksi melalui akar dan menyumbat jaringan penghantar air. Gejala: daun menguning, layu, dan rontok. Pengendalian: tidak spesifik.\n
+        5. **Layu Verticillium**: Disebabkan oleh jamur Verticillium dahliae, menghalangi jaringan penghantar air. Gejala: tanaman terhambat, melemah, dan mati. Pengendalian: tidak spesifik.\n
+        Untuk mencegah dan mengendalikan penyakit jamur, gunakan benih tahan penyakit, lakukan rotasi tanaman, bersihkan tanaman terinfeksi, dan gunakan fungisida sesuai kebutuhan.\n
+        sumber : www.corteva.id
+    </string>
+
+
+    <string name="tomato_yellow_leaf_curl_virus_prevention">
+        Tomato Yellow Leaf Curl Virus (TYLCV) atau Virus Kuning Keriting Daun Tomat menyebabkan pengerdilan daun dan pucuk muda pada tahap pembibitan, serta percabangan berlebihan, daun tebal dan keriput, dan klorosis kekuningan pada daun yang lebih tua. Infeksi sebelum berbunga mengurangi jumlah buah. Virus ini disebarkan oleh lalat putih Bemisia tabaci yang memakan daun bagian bawah dan lebih aktif pada cuaca kering dengan suhu tinggi. Pencegahan mencakup penggunaan varietas tahan, penanaman lebih awal, tumpang sari dengan tanaman tidak rentan, penggunaan jaring, pemasangan mulsa, perangkap plastik kuning, pemantauan dan pemusnahan tanaman sakit, serta rotasi tanaman.\n
+        Tindakan Pencegahan\n
+        - Gunakan varietas yang tahan atau toleran.\n
+        - Lakukan penanaman lebih awal untuk menghindari populasi puncak kutu kebul.\n
+        - Terapkan tumpang sari dengan tanaman-tanaman yang tidak rentan seperti labu dan mentimun.\n
+        - Gunakan jaring untuk menutupi persemaian dan mencegah lalat putih menghinggapi tanaman Anda.\n
+        - Hindari menanam tanaman inang alternatif yang dekat dengan tanaman Anda.\n
+        - Pasang mulsa pada persemaian atau lahan untuk memutus siklus hidup kutu kebul.\n
+        - Gunakan perangkap plastik kuning lengket untuk menangkap serangga secara massal.\n
+        - Pantau lahan, petik tanaman yang sakit dan kuburkan jauh dari lahan.\n
+        - Musnahkan gulma di dalam dan di sekitar lahan.\n
+        - Bajak atau bakar seluruh sisa tanaman setelah panen.\n
+        - Lakukan rotasi dengan tanaman yang tidak rentan.\n
+    </string>
+
+
+    <string name="cabbage_healthy_description">
+        "Cabbage Healthy" atau "Kubis Sehat" adalah tanaman yang tumbuh subur di tanah yang kaya nutrisi dan berdrainase baik, membutuhkan lokasi yang cerah. Persiapan lahan yang tepat sangat penting sebelum menanam benih atau memindahkan bibit muda. Kubis lebih menyukai tanah subur dengan pH berkisar antara 6 hingga 6,8 dan membutuhkan kelembapan tanah yang konsisten. Penanaman benih kubis di dalam ruangan di persemaian atau pot dilakukan 6-8 minggu sebelum musim tanam. Kubis rentan terhadap hama dan penyakit seperti kupu-kupu putih, kutu daun, bercak daun alternaria, dan busuk hitam. Pengendalian hama dan penyakit dapat dilakukan dengan langkah-langkah pencegahan seperti penggunaan benih bersertifikat, varietas yang tahan terhadap penyakit lokal, dan penutupan tanaman dengan jaring. Pemanenan kubis dilakukan ketika kepala kubis mencapai ukuran penuh dan kokoh. Kubis dapat disimpan pada suhu 32-40°F dengan kelembaban sekitar 95%. Hasil kubis per hektar rata-rata adalah 30-70 ton.\n
+    </string>
+
+
+    <string name="cabbage_black_rot_description">
+        "Cabbage Black Rot" atau "Kubis Busuk Hitam" disebabkan oleh bakteri Xanthomonas campestris pv.campestris yang menyerang banyak kubis dan rumput liar seperti lobak liar. Penyakit ini lebih sering terjadi pada musim panas dan gejalanya meliputi daun yang menguning, membesar, dan berubah menjadi coklat ketika jaringan mati. Penyakit ini disebabkan oleh bakteri Xanthomonas campestris pv. campestris yang menginfeksi jaringan xylem dan menyebabkan perubahan warna menjadi kehitaman. Penyakit ini dapat menular melalui tanah, sisa tanaman yang terinfeksi, dan gulma dari famili Brassica. Penyebaran bakteri ini disebabkan oleh kondisi lingkungan yang mendukung, seperti kelembaban dan suhu tinggi.\n
+        Cara Pencegahan:\n
+        - Gunakan benih sehat dari sumber bersertifikat yang tahan penyakit.\n
+        - Pastikan drainase atau pengairan yang baik, dan lakukan penanaman di tanah yang ditinggikan.\n
+        - Hindari menanam kubis di lahan yang sebelumnya ditanami Brassica lainnya selama 3 tahun terakhir.\n
+        - Bersihkan lahan dan lingkungan sekitarnya dari gulma, terutama yang berasal dari famili Brassica.\n
+        - Hindari menggunakan irigasi pancuran dan mengairi tanaman pada tengah hari.\n
+        - Jangan bekerja di lahan yang basah untuk menghindari penularan penyakit.\n
+        - Potong daun tua yang bersentuhan dengan tanah yang terjangkit."
+    </string>
+
+    <string name="soy_frogeye_leaf_spot_description">
+        "Soy Frogeye Leaf Spot" atau "Kedelai Bercak Daun Frogeye" disebabkan oleh patogen jamur Cercospora sojina Hara. Penyakit ini umum terjadi di Amerika Serikat dan daerah produksi kedelai lainnya di dunia. Gejala penyakit ini terutama terlihat pada daun, tetapi juga dapat terjadi pada batang, polong, dan biji di akhir musim tanam dengan kondisi yang mendukung perkembangan penyakit. Infeksi dapat terjadi pada setiap tahap perkembangan kedelai, tetapi paling sering terjadi pada tahap pertumbuhan reproduktif dan dapat berkembang lebih cepat pada lahan kedelai yang terus-menerus ditanami atau pada kondisi lingkungan yang optimal.\n
+        Gejala penyakit ini terlihat pada daun dengan bintik-bintik kecil berwarna abu-abu yang basah oleh air dan berkembang menjadi bintik-bintik abu-abu hingga coklat dengan pinggiran berwarna coklat kemerahan. Bintik-bintik ini berbentuk lingkaran hingga bersudut dengan ukuran bervariasi. Saat infeksi parah, bintik-bintik tersebut dapat menyatu membentuk bintik-bintik besar yang tidak beraturan. Daun yang terinfeksi parah dapat layu dan rontok sebelum waktunya, menyebabkan hilangnya hasil panen secara signifikan.\n
+        Untuk pencegahan, disarankan untuk menggunakan benih sehat dari sumber bersertifikat yang tahan penyakit, memastikan drainase atau pengairan yang baik, menghindari penanaman kembali di lahan yang sebelumnya ditanami kedelai, membersihkan lahan dari gulma, dan menghindari penggunaan irigasi pancur. Potong daun tua yang bersentuhan dengan tanah yang terjangkit juga disarankan."
+    </string>
+
+    <string name="Soy_Downy_Mildew_description">
+        "Soy Downy Mildew" atau "Embun Bulu Kedelai" disebabkan oleh organisme mirip jamur, Peronospora manshurica. Penyakit ini biasanya muncul pada tanaman muda dan tidak berkembang di lahan hingga tahap vegetatif atau reproduksi awal. Gejalanya meliputi bercak kuning kecil, pucat pada daun atas yang kemudian menjadi abu-abu coklat dengan tepian kekuningan. Di sisi bawah daun, bercak-bercak tersebut tampak kabur abu-abu karena adanya patogen. Embun Bulu juga bisa terlihat sebagai massa pertumbuhan mirip jamur di dalam polong jika polong terinfeksi. Penyakit ini didukung oleh suhu sedang (20-22 °C) dan kelembaban tinggi.\n
+        Tindakan pencegahan untuk Embun Bulu antara lain:\n
+        - Gunakan benih bersertifikat dari varietas yang tahan penyakit, jika tersedia.\n
+        - Hindari jarak penanaman terlalu rapat atau pemupukan berat.\n
+        - Merotasi kedelai dengan tanaman bukan inang setidaknya selama satu tahun.\n
+        - Kubur sisa-sisa tanaman yang terinfeksi untuk mengurangi kejadian penyakit pada tahun berikutnya."
+    </string>
+
+
+    <string name="Soy_Healthy_description">
+        "Soy Healthy" atau "Kedelai Sehat" adalah jenis kacang-kacangan yang merupakan sumber utama protein nabati dan minyak nabati. Kedelai mengandung berbagai nutrisi penting seperti lemak tak jenuh ganda (lemak baik), vitamin, dan isoflavon yang berfungsi sebagai antioksidan. Kedelai kuning lebih umum digunakan untuk membuat makanan seperti tempe, tahu, susu kedelai, dan lainnya.\n
+        Cara menanam dan merawat tanaman kedelai antara lain:\n
+        1. Persiapkan lahan dengan sistem pengairan dan aerasi yang baik. Berikan pupuk organik, pupuk kandang, dan pengapuran jika diperlukan.\n
+        2. Gunakan benih unggul bersertifikat atau benih dari tanaman yang sehat.\n
+        3. Penanaman dilakukan dengan cara ditugal dengan jarak 40x25 cm. Penyemprotan insektisida dan fungisida sebelum penanaman disarankan.\n
+        4. Lakukan pemeliharaan dan perawatan dengan memberikan air yang cukup, penyiangan, dan pemupukan tambahan jika diperlukan.\n
+        5. Pengendalian hama dan penyakit dengan penyemprotan insektisida dan fungisida, serta menjaga kebersihan lahan.\n
+        6. Panen dilakukan saat kedelai siap panen dengan cara memotong batang atau menyabit menggunakan sabit.\n
+        Budidaya kedelai bisa menghasilkan keuntungan ekonomi tinggi jika dilakukan dengan baik."
+    </string>
+
+    <string name="Maize_Ravi_Corn_Rust_description">
+        "Maize Ravi Corn Rust" atau "Jagung Karat" disebabkan oleh jamur Puccinia sorghi dan ditandai oleh bintil-bintil kecil, lonjong, berwarna coklat kemerahan yang tersebar di bagian atas dan bawah daun jagung. Penyakit ini terjadi dalam dua jenis: karat jagung biasa dan karat jagung selatan. Keduanya dapat meningkat secara cepat terutama dalam kondisi lingkungan yang menguntungkan seperti suhu dan kelembapan yang ideal.\n
+        Pengelolaan karat jagung meliputi seleksi hibrida, praktik budaya, dan penggunaan fungisida. Seleksi hibrida dengan ketahanan genetik terhadap penyakit merupakan metode pertahanan terbaik yang ekonomis dan efektif. Pemantauan penyakit secara dini juga penting untuk menghindari kerusakan ekonomi. Praktik budaya seperti pemantauan penyakit dan penggunaan fungisida dapat membantu mengurangi risiko serangan karat jagung.\n
+        Meskipun rotasi tanaman tidak membantu mencegah perkembangan karat jagung, petani dapat membatasi masalah dengan menghindari keterlambatan tanam atau memilih tanaman hibrida dengan masa tanam yang pendek. Penggunaan fungisida daun juga dapat membantu mencegah dan mengatasi penyakit ini.\n
+        Sebelum menggunakan fungisida, pastikan untuk membaca label dengan teliti untuk memastikan efektivitasnya terhadap penyakit yang diinginkan dan ikuti petunjuk penggunaannya dengan benar."
+    </string>
+
+    <string name="Maize_Healthy_description">
+        "Maize Healthy" atau "Jagung Sehat" membutuhkan perawatan yang tepat mulai dari fase bibit hingga dewasa untuk pertumbuhan yang optimal. Pengairan yang cukup, penjarangan, penyulaman, penyiangan, pembumbunan, pemupukan, dan pengendalian hama serta penyakit adalah beberapa tahapan penting yang tidak boleh terlewatkan.\n
+        Pengairan harus dilakukan dengan benar setelah pembibitan, baik melalui penggenangan maupun pengairan ulang saat tanah sudah tidak basah selama 3 hari berturut-turut. Penjarangan tanaman yang berlebihan, penyulaman bibit yang tidak tumbuh normal, penyiangan gulma, pembumbunan, dan pemupukan yang rutin juga penting dilakukan.\n
+        Pengendalian hama dan penyakit juga krusial untuk mencegah kerusakan yang dapat mengganggu pertumbuhan dan bahkan menyebabkan kematian tanaman. Pencegahan lebih baik daripada pengobatan, jadi antisipasi serangan dengan pencegahan yang baik sangat dianjurkan."
+    </string>
+
+
+    <string name="Maize_Grey_Leaf_Spot_description">
+        "Maize Grey Leaf Spot" atau "Jagung Bercak Daun Abu-abu" disebabkan oleh jamur Cercospora zeae-maydis. Gejalanya meliputi nekrosis kecil berwarna coklat atau sawo matang yang dapat dikelilingi oleh lingkaran kuning klorosis di daun bagian bawah. Luka-luka ini bisa membesar dan menutupi seluruh daun dalam kondisi optimal (suhu hangat, kelembaban tinggi, dan daun basah), menyebabkan kerugian panen yang besar jika terjadi sebelum pembentukan biji.\n
+        Penyakit ini dapat dicegah dengan beberapa tindakan pencegahan, seperti menanam varietas yang tahan jika tersedia, melakukan penanaman lebih akhir, menjaga peredaran udara yang baik, membajak lahan dalam-dalam, dan merencanakan rotasi tanaman jangka panjang dengan tanaman bukan inang.\n
+    </string>
+
+    <string name="Maize_Lethal_Necrosis_description">
+        "Maize Lethal Necrosis" atau "Nekrosis Mematikan pada Jagung" disebabkan oleh kombinasi dua virus, yaitu virus belang klorotik jagung (MCMV) dan virus mosaik tebu. Gejalanya meliputi pola belang kuning-hijau pada daun, mengeringnya daun dari tepian ke pelepah, dan pertumbuhan tanaman yang terhambat dengan tongkol yang cacat dan pendek. Penyakit ini dapat dicegah dengan tindakan seperti menanam varietas yang toleran, menggunakan benih dari sumber yang sehat, menjaga kebersihan lahan, dan merotasi tanaman dengan tanaman non-inang.\n
+        Semua jenis tanaman jagung rentan terhadap penyakit ini. Namun, gejalanya bervariasi tergantung pada kombinasi virus yang ada, kondisi lingkungan, dan tahap vegetatif tanaman. Agen-agen penginfeksi ini terutama menyebar di dalam dan di antara lahan melalui vektor-vektor seperti kutu trips jagung, cacing tanah, kumbang daun, dan kumbang daun sereal. Gejalanya diperparah oleh kondisi lingkungan yang buruk seperti kekeringan, kesuburan tanah yang buruk, dan praktik pertanian yang tidak tepat.\n
+        Tindakan Pencegahan:\n
+        - Tanam varietas yang toleran jika tersedia.\n
+        - Gunakan benih dari tanaman sehat atau dari sumber bersertifikat.\n
+        - Tanam lebih awal atau lebih lambat untuk menghindari populasi puncak vektor di daerah Anda.\n
+        - Cabut dan bakar tanaman yang terinfeksi parah untuk menghentikan penyebaran penyakit.\n
+        - Kendalikan gulma di lahan dan sekitarnya.\n
+        - Jangan menanam jagung sebagai tanaman tunggal di area yang sama.\n
+        - Rotasikan tanaman dengan polong-polongan, kacang tunggak, kentang, singkong, dan tanaman non-inang lainnya.\n
+    </string>
+
+
+    <array name="photo">
+        <item>@drawable/tomat_sehat</item>
+        <item>@drawable/bercak_daun_septoria</item>
+        <item>@drawable/bercak_bakteri_tomat</item>
+        <item>@drawable/tomat_busuk</item>
+        <item>@drawable/tungau_daun_tomat</item>
+        <item>@drawable/jamur_daun_tomat</item>
+        <item>@drawable/penyakit_daun_tomat_kuning_keriting</item>
+        <item>@drawable/kubis_sehat</item>
+        <item>@drawable/kubis_busuk</item>
+        <item>@drawable/kedelai_bercak_daun_frogye</item>
+        <item>@drawable/embun_bulu_kedelai</item>
+        <item>@drawable/kedelai_sehat</item>
+        <item>@drawable/jagung_karat</item>
+        <item>@drawable/jagung_sehat</item>
+        <item>@drawable/jagung_bercak_daun_abu</item>
+        <item>@drawable/nekrosis_mematikan_jagung</item>
+    </array>
+
+</resources>
